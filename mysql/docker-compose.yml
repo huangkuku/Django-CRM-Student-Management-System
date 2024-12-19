@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  database:
+    build: .
+    ports:
+      - "3309:3306"
+      # 因主機已安裝mysql 佔用port3306 故將主機port改3309 映射到mysql port:3306

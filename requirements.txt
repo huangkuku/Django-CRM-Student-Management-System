@@ -1,0 +1,22 @@
+asgiref
+Django
+django-bootstrap-themes
+django-environ
+django-pandas
+mysql
+mysql-connector
+mysql-connector-python
+mysqlclient
+numpy
+packaging
+pandas
+plotly
+PyMySQL
+# python-dateuti #  No matching distribution found for python-dateuti
+# python-decoupl
+pytz
+scipy
+six
+sqlparse
+tenacity
+tzdata

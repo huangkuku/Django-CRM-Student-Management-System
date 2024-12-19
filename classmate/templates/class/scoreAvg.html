@@ -1,0 +1,9 @@
+{% extends 'class/layout.html' %}
+{% block body %}
+    <h1>Score Average</h1>
+        <a href="{% url 'dashboard_english_score_avg' %}" style="margin-right: 10px;">English</a>
+        <a href="{% url 'dashboard_math_score_avg' %}" style="margin-right: 10px;">Math</a>
+        <a href="{% url 'dashboard_chinese_score_avg' %}">Chinese</a>
+        <div><a href="{% url 'dashboard_eachStudentAvg' %}">Every Student Average</a></div>
+        {{chart|safe}} {{math_chart|safe}}  {{chinese_chart|safe}} 
+{% endblock %}
