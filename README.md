@@ -20,7 +20,7 @@ All Student 可以看到所有學生所有資訊，另有編輯、刪除鈕可�
 All Student 可以看到所有學生所有資訊，另有編輯、刪除鈕可以編輯跟刪除
 
 
-![專案封面圖]()
+![專案封面圖](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/project%20%E5%B0%81%E9%9D%A2.png)
 
 
 ## 功能
@@ -40,7 +40,7 @@ All Student 可以看到所有學生所有資訊，另有編輯、刪除鈕可�
 
 > 可提供 1~3 張圖片，讓觀看者透過 README 了解整體畫面
 
-![範例圖片 1]()
+![範例圖片 1](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/view_record%20%E9%A6%96%E9%A0%81.png)
 ![範例圖片 2]()
 
 ## 安裝
@@ -113,7 +113,7 @@ http://127.0.0.1:8000/
 
 ## CRM
 ### View Records
-
+![View Records](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/view_record%20%E9%A6%96%E9%A0%81.png)
 
 ### Register
 
