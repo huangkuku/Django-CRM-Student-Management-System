@@ -129,10 +129,11 @@ http://127.0.0.1:8000/
 ![Dachborad](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/dashboard%20%E5%84%80%E9%8C%B6%E6%9D%BF.png)
 
 ## Student Management System
-[![demo](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/student%20%E5%B0%81%E9%9D%A2.png)]
-(https://youtu.be/Mn1OCAuG_0c "Django_CRM--學生管理系統 2024_12_23")
+[![demo](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/Django%20CRM%20-%20%E5%AD%B8%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%202024-12-23_1.mp4)
 
+[![demo](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/Django%20CRM%20-%20%E5%AD%B8%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%202024-12-23_2.mp4)
 
+[![demo](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/Django%20CRM%20-%20%E5%AD%B8%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%202024-12-23_3.mp4)
 ## 聯絡作者
 
 你可以透過以下方式與我聯絡
