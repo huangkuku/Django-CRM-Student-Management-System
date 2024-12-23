@@ -3,7 +3,7 @@
 ## 顧客管理關係CRM(Customer Relationship Management)
 此為簡易的顧客管理關係CRM(Customer Relationship Management)平台，
 收集客戶的相關資訊，如姓名、電話、Email，地址、購買量等資訊，
-以增進企業與客路之間的關係，增加企業銷售收入和提高客戶留存
+以增進企業與客戶之間的關係，增加企業銷售收入和提高客戶留存
 
 ## 學生管理平台頁面
 首頁可以看到所有學生姓名、學號、email、國小或國中、年級等，點開右邊check鍵彈出小視窗看到該學生以上基本資訊外還有國英數成績，另有編輯、刪除鈕可以編輯跟刪除
@@ -129,7 +129,7 @@ http://127.0.0.1:8000/
 ![Dachborad](https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/dashboard%20%E5%84%80%E9%8C%B6%E6%9D%BF.png)
 
 ## Student Management System
-https://github.com/huangkuku/Django-CRM-Student-Management-System/blob/main/png/Django%20CRM%20-%20%E5%AD%B8%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%202024-12-23.mp4
+![demo](https://youtu.be/Mn1OCAuG_0c)
 
 ## 聯絡作者
 
